@@ -1,7 +1,7 @@
 - 👋 Hi, I’m vidhi
 - 👀 I’m interested in data science (python, sql, data visualization), movies, music etc. 
 - 🌱 I’m currently learning about APIs
-- 💞️ I’m looking to collaborate on data science projects or interesting projects
+- 💞️ I’m looking to collaborate on data science projects and interesting projects
 - 😄 Pronouns: she/her
 
 
