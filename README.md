@@ -1,5 +1,11 @@
-# Hi, I’m Vidhi ⋆. 𐙚 ˚
-I’m passionate about data science, movies, music, and matcha 🍵 <br> I'm always eager to explore new ideas and collaborate on exciting data science projects. Let's work together on something interesting! <br>
+Hi, I’m Vidhi ⋆. 𐙚 ˚  
+
+I’m a data science student who loves turning messy data into meaningful insights.  
+Big on movies, music, and matcha 🍵  
+
+I enjoy building data-driven projects, experimenting with SQL, Python, ML, and storytelling through visuals.  
+Currently exploring and actively preparing for Summer 2026 data science / analytics internships.  
+
 ⋆౨ৎ˚⟡˖ ࣪
 
 
