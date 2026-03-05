@@ -4,7 +4,6 @@ I’m a data science student who loves turning messy data into meaningful insigh
 Big on movies, music, and matcha 🍵  
 
 I enjoy building data-driven projects, experimenting with SQL, Python, ML, and storytelling through visuals.  
-Currently exploring and actively preparing for Summer 2026 data science / analytics internships.  
 
 ⋆౨ৎ˚⟡˖ ࣪
 
